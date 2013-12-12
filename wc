@@ -1,0 +1,5 @@
+wc
+
+command word count counts lines words characters
+
+flags -l lines
