@@ -1,0 +1,8 @@
+mv 
+
+This command moves a file to another location. You specify the file to move and the new location including 
+the new file name so it can be used to change a name only.
+
+eg usage on file foo mv ./foo ./bar/foo
+
+or mv ./foo ./bar/bar
